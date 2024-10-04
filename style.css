@@ -39,3 +39,9 @@ ul {
     letter-spacing: 1.5px;
 }
 
+main {
+    background: url("img/img-inicial.jpeg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
